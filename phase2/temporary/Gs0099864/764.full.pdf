@@ -1,0 +1,734 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Sign In </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A monthly journal publishing high-quality, peer-reviewed research on all topics related to RNA and its metabolism in all organisms" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-login.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/login-page.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-login.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d5840228e1">var callbackToken='4204ABB8B990731';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-login">
+         <div id="header">
+            <a href="http://rnasociety.org/" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="RNA" alt="RNA" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               	
+               
+               
+               <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               
+               
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               	
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+               
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search RNA" type="text" name="fulltext" id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+                  
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  
+                  <li><a href="/cgi/adclick/?ad=57341&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2024%2Fregistration-2%2F"
+                        target="_blank"><img class="adborder0" title="AACR Annual Meeting"
+                             src="//rnajournal.cshlp.org/adsystem/graphics/9834398074997823/genesdev/2401077B_MCS_24AM_CSHL_468X60_Wg.jpg?ad=57341&amp;adview=true"
+                             alt="AACR Annual Meeting" /></a></li>
+                  
+                  
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div><img src="/shared/img/pages/login/login_hit_hidden.gif?timestamp=2024-03-25T11:06:59.478-07:00"
+              id="hw-login-tracking-gif"
+              width="2"
+              height="2"
+              alt=" " /><div id="content-block">
+            <div id="hw-login-msg-box">
+               
+               
+               <div id="hw-login-msg-box-text">
+                  
+                  
+                  
+                  <div>
+                     <span>
+                        
+                        
+                        <strong xmlns="">This item requires a subscription to RNA. </strong>
+                        
+                        
+                        </span>
+                     
+                  </div>
+                  
+               </div> 
+               
+            </div>
+            <div id="hw-login-item-group">
+               
+               <div id="hw-login-content-item-group">
+                  <img src="/content/29/6.cover.gif" id="hw-login-cover-image" alt="Cover" width="59"
+                       height="80" />  
+                  
+                  <div id="hw-login-content-item"><span id="hw-login-item-view">Full Text (PDF)</span>
+                     
+                     
+                     <div class="cit creative-commons creative-commons-by-nc/4.0/ has-earlier-version">
+                        <div class="cit-metadata"><span class="cit-first-element cit-section">ARTICLE<span class="cit-sep cit-sep-after-article-section">:</span> </span><span class="cit-title">Computational design and experimental verification of pseudoknotted ribozymes </span><ul class="cit-auth-list">
+                              <li class="first-item"><span class="cit-auth cit-auth-type-author">Sabrine Najeh</span><span class="cit-sep cit-sep-separator">, </span></li>
+                              <li><span class="cit-auth cit-auth-type-author">Kasra Zandi</span><span class="cit-sep cit-sep-separator">, </span></li>
+                              <li><span class="cit-auth cit-auth-type-author">Nawwaf Kharma</span><span class="cit-sep cit-sep-separator">, </span></li>
+                              <li class="last-item"><span class="cit-sep cit-sep-last-separator">and </span><span class="cit-auth cit-auth-type-author">Jonathan Perreault</span></li>  
+                           </ul> <cite><abbr title="RNA" class="site-title">RNA</abbr> <span class="cit-print-date">June 2023 </span><span class="cit-vol">29<span class="cit-sep cit-sep-after-article-vol">: </span></span><span class="cit-pages"><span class="cit-first-page">764</span><span class="cit-sep">-</span><span class="cit-last-page">776</span></span><span class="cit-sep cit-sep-after-article-pages">; </span><span class="cit-ahead-of-print-date"><span class="cit-sep cit-sep-before-article-ahead-of-print-date">Published in Advance </span>March 3, 2023<span class="cit-sep cit-sep-after-article-ahead-of-print-date">, </span> </span><span class="cit-doi"><span class="cit-sep cit-sep-before-article-doi">doi:</span>10.1261/rna.079148.122 </span></cite>  
+                        </div>
+                        <div class="cit-extra">
+                           <ul class="cit-views">
+                              <li class="first-item"><a href="/content/29/6/764.abstract" rel="abstract">Abstract</a></li>
+                              <li><a href="/content/29/6/764.full" rel="full-text">Full Text</a></li>
+                              <li><a href="/content/29/6/764.full.pdf+html" rel="full-text.pdf">Full Text (PDF)</a></li>
+                              <li class="last-item"><a href="/content/29/6/764/suppl/DC1" rel="supplemental-data"
+                                    class="dslink-supplemental-material">Supplemental Material</a></li>
+                           </ul>  
+                        </div> 
+                     </div>
+                     
+                  </div>
+                  
+               </div>
+               
+               
+               
+            </div>
+            <div id="hw-login-instruction">To view this item, select one of the options below:</div>
+            <div id="hw-login-sign-in-group">
+               
+               <div id="hw-login-sign-in-header" class="hw-login-section-header">
+                  <img alt="*" width="9" height="15" src="/shared/img/pages/login/redtri.gif" />
+                  
+                  Sign In  
+                  
+               </div>
+               
+               <div id="hw-login-sign-in-box">
+                  
+                  <form action="/content/29/6/764.full.pdf" method="post"
+                        class="hw-ac-standalone-form hw-login-form">
+                     
+                     
+                     <fieldset>
+                        <input value="" type="hidden" name="login_referer" />
+                        
+                        <legend class="ext-legend">Sign In</legend>
+                        <span>
+                           <label for="username"> 
+                              User Name
+                              </label>
+                           <input type="text" name="username" value="" size="10" maxlength="150" tabindex="1"
+                                  id="username" />
+                           </span>
+                        
+                        <span>
+                           <label for="password">Password</label>
+                           <input type="password" name="code" value="" size="10" maxlength="128" tabindex="2"
+                                  id="password" />
+                           </span>
+                        <span class="login-submit">
+                           <input type="submit" name="signin" value="Sign In" tabindex="3" /></span>
+                        
+                        <span class="save-pwd">
+                           <input type="checkbox" name="storepwd" value="yes" id="savepwd" />
+                           <label for="savepwd">Remember my user name &amp; password.</label>
+                           </span>
+                        
+                     </fieldset>
+                     
+                     <div id="hw-login-forgot-pwd">
+                        <a href="http://www.cshlp.org/cgi/recnamepwd">Forgot</a>
+                        your user name or password?
+                        
+                     </div>
+                     
+                     <ul class="hw-login-option-list">
+                        
+                        
+                        
+                        <li>
+                           <a href="/help/subscriptions/privacy-policy#cookie-problems">Can't get past this page?</a> 
+                           
+                        </li>
+                        
+                        <li>
+                           <a href="/help/subscriptions/privacy-policy">Help with Cookies.</a> 
+                           
+                        </li>
+                        
+                        <li>
+                           <a href="/site/subscriptions">Need to Activate?</a> 
+                           
+                        </li>
+                        
+                        
+                        
+                     </ul>
+                     
+                  </form>
+                  
+               </div>
+               
+               
+               
+            </div>
+            <div id="hw-login-ppv-group" class="hw-login-extra-group">
+               
+               <div id="hw-login-ppv-header" class="hw-login-section-header"><img alt="*" width="9" height="15" src="/shared/img/pages/login/redtri.gif" /> 
+                  Purchase Short-Term Access
+               </div>
+               
+               
+               <ul id="hw-login-ppv-options" class="hw-login-option-list">
+                  
+                  <li id="hw-login-ppa-option"><a href="/cookietest?for=ppv&amp;uri=%2Fcgi%2Fsecure_ppv%3Fjcode%3Drna%26resource_id%3Drna%3Brna.079148.122%26type%3Dppv%26ppv_type%3Darticle%26url%3Dhttp%253A%252F%252Frnajournal.cshlp.org%252Fcontent%252F29%252F6%252F764.full.pdf">Pay per Article
+                        </a> 
+                     - You may access  <strong>this article</strong> (from the computer 
+                     you are currently using) for 1 <span>day</span> for US$20.00.
+                  </li>
+                  
+                  
+                  
+                  <li id="hw-login-ppv-regain-option"><a href="/cookietest?for=ppv&amp;uri=%2Fcgi%2Fsecure_ppvregain%3Furl%3Dhttp%253A%252F%252Frnajournal.cshlp.org%252Fcontent%252F29%252F6%252F764.full.pdf">Regain Access</a> - You can regain 
+                     access to a recent  Pay per Article purchase  if your access 
+                     period has not yet expired.
+                  </li>
+                  
+                  
+                  
+               </ul>
+               
+               
+               
+            </div>
+            <div id="hw-login-sign-up-group" class="hw-login-extra-group">
+               
+               <div id="hw-login-sign-up-header" class="hw-login-section-header"><img alt="*" width="9" height="15" src="/shared/img/pages/login/redtri.gif" />
+                  Sign Up
+               </div>
+               
+               <ul class="hw-login-option-list hw-login-section-body">
+                  
+                  <li>
+                     <a href="/subscriptions">
+                        Subscribe to the Journal
+                        </a> - Subscribe to the print and/or online journal.
+                     
+                  </li>
+                  
+               </ul>
+               
+            </div>
+            <div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">March 3, 2023</span>,
+                                 doi:
+                                 <span title="10.1261/rna.079148.122" class="slug-doi">10.1261/rna.079148.122
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="RNA" class="slug-jnl-abbrev">
+                                    RNA</abbr><span class="slug-pub-date">
+                                    2023.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    29: 
+                                    </span><span class="slug-pages">
+                                    764-776
+                                    </span>
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://www.rnajournal.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2023 Najeh et al.; Published by Cold Spring Harbor Laboratory Press for the RNA Society</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        
+                        
+                        <li><a href="/content/29/6/764.full.pdf" class="pdf-direct-link">Show PDF in full window</a></li>
+                        
+                        
+                        <li><a href="/content/29/6/764.abstract" rel="view-abstract">Abstract</a><span class="free">Free</span></li>
+                        
+                        
+                        <li class="notice"><a href="/content/29/6/764.full" rel="view-full-text">Full Text</a></li>
+                        
+                        <li class="notice"><span class="variant-indicator">» <span>Full Text (PDF)</span></span></li>
+                        
+                        
+                        
+                        <li><a href="/content/29/6/764/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=ARTICLES&amp;sortspec=date&amp;submit=Submit">ARTICLE</a></li>
+                           </ul>
+                        </li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=rna%3B29%2F6%2F764&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/6/764.full.pdf+html?sid=777cf255-0d21-4418-bad8-cefe8fe420cd">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=29/6/764&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://rnajournal.cshlp.org/content/29/6/764.full.pdf+html?sid=777cf255-0d21-4418-bad8-cefe8fe420cd">Alert me if a correction is posted</a></li>
+                        
+                        
+                        <li><a href="/search?qbe=rna%3Brna.079148.122&amp;citation=Najeh%20et%20al.%2029%20%286%29:%20764&amp;submit=yes">Similar articles in this journal</a></li>
+                        
+                        
+                        <li><a href="/external-ref?access_num=rna%3B29%2F6%2F764&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        
+                        
+                        <li><a href="/external-ref?access_num=rna%3B29%2F6%2F764&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        		        
+                        <li class="usage-stats-link icon-link"><a href="/articleusage?gca=rna;29/6/764" rel="nofollow">Article Metrics</a></li> 
+                        
+                        
+                        <li><a href="/external-ref?access_num=36868786&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        	
+                        
+                        <li><a href="/citmgr?gca=rna%3B29%2F6%2F764">Download to citation manager</a></li>
+                        
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        	 
+                        
+                        	
+                        	
+                        
+                        <li><a href="/content/29/6/764.full.pdf+html?sid=777cf255-0d21-4418-bad8-cefe8fe420cd&amp;cited-by=yes&amp;legid=rna;29/6/764#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        
+                        
+                        <li><a href="/external-ref?access_num=%2Frna%2F29%2F6%2F764&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        
+                        
+                        <li><a href="/external-ref?access_num=http://rnajournal.cshlp.org/content/29/6/764.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ANajeh%20author%3AS.%22">Articles by  Najeh, S.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3APerreault%20author%3AJ.%22">Articles by  Perreault, J.</a></li>
+                        
+                        
+                        <li><a href="/external-ref?access_num=http://rnajournal.cshlp.org/content/29/6/764.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        
+                        
+                        <li><a href="/external-ref?access_num=36868786&amp;link_type=PUBMED">PubMed citation</a></li>
+                        
+                        
+                        <li><a href="/external-ref?access_num=Najeh%20S&amp;link_type=AUTHORSEARCH">Articles by  Najeh, S.</a></li>
+                        <li><a href="/external-ref?access_num=Perreault%20J&amp;link_type=AUTHORSEARCH">Articles by  Perreault, J.</a></li>
+                        
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/36868786"></a></div>
+                        </li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        		
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Perreault, J.<a class="orcid-link" href="http://orcid.org/0000-0003-4726-6319">http://orcid.org/0000-0003-4726-6319</a></span>
+                        </li>
+                        	    
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        
+                        <li><a href="/email?gca=rna%3B29%2F6%2F764&amp;current-view-path=/content/29/6/764.full.pdf+html"></a></li>
+                        
+                        
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <ul class="tower-ads">
+               
+               <li class="no-ad tower_col_2"><span>  </span></li>
+               
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        
+                        <li><span><a href="/content/current" rel="current-issue">April 2024, 30 (4)</a></span></li>
+                        
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/30/4.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                        
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>From the Cover</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           
+                           <li>
+                              <a href="/content/30/4/327/">A review on RNA 5′ ends as guardians of identity and immunity</a>
+                              
+                           </li>
+                           
+                           <li>
+                              <a href="/site/misc/CL/30_4_landingpage.xhtml">A sealing-only tRNA ligase in the fungi Mucorales</a>
+                              
+                           </li>
+                           
+                           <li>
+                              <a href="/content/30/4/381/">An <em>E. coli</em> riboswitch controls Rho-dependent transcription termination</a>
+                              
+                           </li>
+                           
+                        </ul>
+                        
+                     </div>
+                     
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of <span class="journal-name">
+                                 RNA
+                                 </span>
+                              </a></li>
+                        
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  
+                  <li><a href="http://submit.rnajournal.org/index.dtl" rel="external-nw"
+                        title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  
+                  <li class="last"><a href="/site/misc/classifieds.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+                  
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               
+               <li><a href="/cgi/adclick/?ad=57340&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2024%2Fregistration-2%2F"
+                     target="_blank"><img class="adborder0" title="AACR"
+                          src="//rnajournal.cshlp.org/adsystem/graphics/6165146715887214/genesdev/2401077B_MCS_24AM_CSHL_160x800_1.jpg?ad=57340&amp;adview=true"
+                          alt="AACR" /></a></li>
+               
+            </ul>
+            
+            <div id="col-3-widget-placeholder">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.cshlpress.com/link/molclon4p.htm" style="color:black;">Molecular Cloning<br />The New Edition<br />
+                     <span style=" color: red; ">Buy Now and Save 30%</span>
+                     </a>
+                  <br />Paperback only<br />(limited time offer)
+               </p>
+               
+               <table style="border-spacing: 6px;font-size: 80%;">
+                  
+                  <tr>
+                     
+                     <td style="padding-bottom:6px;padding-top:2px;padding-left:12px;vertical-align:top;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">
+                           <img src="https://www.cshlpress.com/productgraphics/small/Molclon4-1.jpg"
+                                alt="Support Research and Save at CSHL Press" />
+                           </a>
+                        
+                     </td>
+                     
+                     <td style="padding-bottom:9px;padding-left:6px;padding-right:12px;vertical-align:middle;">
+                        <a href="https://www.cshlpress.com/link/molclon4p.htm">Molecular Cloning: A Laboratory Manual  (Fourth Edition)</a>
+                        
+                     </td>
+                     
+                  </tr>
+                  
+               </table>
+               
+               <p style="padding-top:12px;"> </p>
+               
+            </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     	
+                     
+                     
+                     <li><a href="http://submit.rnajournal.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     
+                     
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                     
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://rnasociety.org/" rel="external-nw">Copyright © 2024 by the RNA Society</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">1355-8382</span>
+                        
+                     </li>
+                     
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1469-9001</span>
+                        
+                     </li>
+                     
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+document.write(unescape("%3Cscript async src='https://www.googletagmanager.com/gtag/js?id=G-8DSB0FN39Q'%3E%3C/script%3E"));
+</script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-8DSB0FN39Q');
+</script>
+            </div><script type="text/javascript">
+document.write(unescape("%3Cscript async src='https://www.googletagmanager.com/gtag/js?id=G-1CWXPJ6EVC'%3E%3C/script%3E"));
+</script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1CWXPJ6EVC');
+</script></div>
+   </body>
+</html>
